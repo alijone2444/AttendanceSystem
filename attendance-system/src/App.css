@@ -1,0 +1,48 @@
+/* src/App.css */
+
+/* Style for larger screens (default layout) */
+.ant-layout {
+  min-height: 100vh;
+  display: flex;
+}
+
+.ant-layout-sider {
+  background: #fff;
+  width: 200px;
+  transition: width 0.2s;
+}
+
+
+.drawer-button {
+  display: none;
+}
+
+.ant-drawer-body {
+  padding: 0;
+}
+
+.sidebar {
+  height: 100vh;
+  border: 1px solid dodgerblue;
+}
+
+.drawer {
+  background-color: dodgerblue;
+}
+
+/* Hide the fixed sidebar and show the drawer button on small screens */
+@media (max-width: 767px) {
+  .ant-layout-sider {
+    display: none;
+  }
+
+
+  .drawer-button {
+    display: block;
+  }
+
+  .ant-layout-content {
+    margin-left: 0;
+  }
+
+}

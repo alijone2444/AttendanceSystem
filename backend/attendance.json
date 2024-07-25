@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Fatima Ali",
+        "date": "2024-07-23",
+        "status": "Leave"
+    },
+    {
+        "name": "Usman Tariq",
+        "date": "2024-07-22",
+        "status": "Present"
+    },
+    {
+        "name": "Ayesha Rafiq",
+        "date": "2024-07-21",
+        "status": "Absent"
+    },
+    {
+        "name": "Bilal Ahmed",
+        "date": "2024-07-20",
+        "status": "Present"
+    },
+    {
+        "name": "Zainab Bibi",
+        "date": "2024-07-19",
+        "status": "Absent"
+    },
+    {
+        "name": "Omer Hussain",
+        "date": "2024-07-18",
+        "status": "Present"
+    },
+    {
+        "name": "Saira Khan",
+        "date": "2024-07-17",
+        "status": "Absent"
+    },
+    {
+        "name": "Javed Iqbal",
+        "date": "2024-07-16",
+        "status": "Present"
+    },
+    {
+        "name": "Mariam Shah",
+        "date": "2024-07-15",
+        "status": "Absent"
+    },
+    {
+        "name": "Fatima Ali",
+        "date": "2024-07-24",
+        "status": "Present"
+    },
+    {
+        "name": "Usman Tariq",
+        "date": "2024-07-23",
+        "status": "Absent"
+    },
+    {
+        "name": "Ayesha Rafiq",
+        "date": "2024-07-22",
+        "status": "Present"
+    },
+    {
+        "name": "Bilal Ahmed",
+        "date": "2024-07-21",
+        "status": "Absent"
+    },
+    {
+        "name": "Zainab Bibi",
+        "date": "2024-07-20",
+        "status": "Present"
+    },
+    {
+        "name": "Omer Hussain",
+        "date": "2024-07-19",
+        "status": "Absent"
+    },
+    {
+        "name": "Saira Khan",
+        "date": "2024-07-18",
+        "status": "Present"
+    },
+    {
+        "name": "Javed Iqbal",
+        "date": "2024-07-17",
+        "status": "Absent"
+    },
+    {
+        "name": "Mariam Shah",
+        "date": "2024-07-16",
+        "status": "Present"
+    },
+    {
+        "name": "Fatima Ali",
+        "date": "2024-07-25",
+        "status": "Leave"
+    },
+    {
+        "name": "Usman Tariq",
+        "date": "2024-07-24",
+        "status": "Present"
+    },
+    {
+        "name": "Ayesha Rafiq",
+        "date": "2024-07-23",
+        "status": "Absent"
+    },
+    {
+        "name": "Bilal Ahmed",
+        "date": "2024-07-22",
+        "status": "Present"
+    },
+    {
+        "name": "Zainab Bibi",
+        "date": "2024-07-21",
+        "status": "Absent"
+    },
+    {
+        "name": "Omer Hussain",
+        "date": "2024-07-20",
+        "status": "Present"
+    },
+    {
+        "name": "Saira Khan",
+        "date": "2024-07-19",
+        "status": "Absent"
+    },
+    {
+        "name": "Javed Iqbal",
+        "date": "2024-07-18",
+        "status": "Present"
+    },
+    {
+        "name": "Mariam Shah",
+        "date": "2024-07-17",
+        "status": "Absent"
+    },
+    {
+        "name": "Fatima Ali",
+        "date": "2024-07-26",
+        "status": "Present"
+    },
+    {
+        "name": "Usman Tariq",
+        "date": "2024-07-25",
+        "status": "Absent"
+    },
+    {
+        "name": "Ayesha Rafiq",
+        "date": "2024-07-24",
+        "status": "Present"
+    },
+    {
+        "name": "Bilal Ahmed",
+        "date": "2024-07-23",
+        "status": "Absent"
+    },
+    {
+        "name": "Zainab Bibi",
+        "date": "2024-07-22",
+        "status": "Present"
+    },
+    {
+        "name": "Omer Hussain",
+        "date": "2024-07-21",
+        "status": "Absent"
+    },
+    {
+        "name": "Saira Khan",
+        "date": "2024-07-20",
+        "status": "Present"
+    },
+    {
+        "name": "Javed Iqbal",
+        "date": "2024-07-19",
+        "status": "Absent"
+    },
+    {
+        "name": "Mariam Shah",
+        "date": "2024-07-18",
+        "status": "Present"
+    },
+    {
+        "name": "Fatima Ali",
+        "date": "2024-07-27",
+        "status": "Leave"
+    },
+    {
+        "name": "Usman Tariq",
+        "date": "2024-07-26",
+        "status": "Present"
+    },
+    {
+        "name": "Ayesha Rafiq",
+        "date": "2024-07-25",
+        "status": "Absent"
+    },
+    {
+        "name": "Bilal Ahmed",
+        "date": "2024-07-24",
+        "status": "Present"
+    },
+    {
+        "name": "Zainab Bibi",
+        "date": "2024-07-23",
+        "status": "Absent"
+    },
+    {
+        "name": "Omer Hussain",
+        "date": "2024-07-22",
+        "status": "Present"
+    },
+    {
+        "name": "Saira Khan",
+        "date": "2024-07-21",
+        "status": "Absent"
+    },
+    {
+        "name": "Javed Iqbal",
+        "date": "2024-07-20",
+        "status": "Present"
+    },
+    {
+        "name": "Mariam Shah",
+        "date": "2024-07-19",
+        "status": "Absent"
+    }
+]
